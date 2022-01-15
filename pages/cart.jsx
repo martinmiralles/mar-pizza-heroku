@@ -192,7 +192,7 @@ const Cart = () => {
               <PayPalScriptProvider
                 options={{
                   "client-id":
-                    "ATTL8fDJKfGzXNH4VVuDy1qW4_Jm8S0sqmnUTeYtWpqxUJLnXIn90V8YIGDg-SNPaB70Hg4mko_fde4-",
+                    "AepYjYOlLKYkCK7RMZwAN4JltDMlJKoYWSIz5WRM-K6Csv5GmiEEuFVYCkGcD2Fg6Wrrh05GEtgL-bjZ",
                   components: "buttons",
                   currency: "USD",
                   "disable-funding": "credit,card,p24",
